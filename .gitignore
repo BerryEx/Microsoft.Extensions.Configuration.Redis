@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*/obj
+*/bin
+test/Microsoft.Extensions.Configuration.Redis.Tests/obj/
+src/Microsoft.Extensions.Configuration.Redis/obj/
+src/Microsoft.Extensions.Configuration.Redis/bin/
+test/Microsoft.Extensions.Configuration.Redis.Tests/bin/
+.idea/
+.vs/
